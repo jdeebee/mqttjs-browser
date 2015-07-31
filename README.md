@@ -1,7 +1,7 @@
 # mqttjs-browser
 Browserified mqtt.js
 
-This is a Bower package. To use this, include mqtt-browser in your bower.json, bower install, and you are ready to go:
+This is a Bower package. To use this, include mqtt-browser in your bower.json, `bower install`, and you are ready to go:
 
 ```
   "dependencies": {
